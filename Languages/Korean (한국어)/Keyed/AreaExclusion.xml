@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AreaExclusion_Excluded>제외됨: 이 정착민은 여기에 가지 않습니다.</AreaExclusion_Excluded>
+  <AreaExclusion_Tip>Shift+클릭: 제외 구역으로 지정/해제 (정착민이 이 구역에 들어가지 않음)</AreaExclusion_Tip>
+  <AreaExclusion_TipClear>Shift+클릭: 이 정착민의 제외 구역을 모두 해제</AreaExclusion_TipClear>
+</LanguageData>

@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>$(MSBuildThisFileDirectory)../../AreaExclusion-work/obj/</BaseIntermediateOutputPath>
+  </PropertyGroup>
+</Project>

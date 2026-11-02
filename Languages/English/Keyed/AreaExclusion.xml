@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AreaExclusion_Excluded>Excluded: this pawn won't go here.</AreaExclusion_Excluded>
+  <AreaExclusion_Tip>Shift+click: toggle as an excluded area (the pawn stays out of it).</AreaExclusion_Tip>
+  <AreaExclusion_TipClear>Shift+click: clear all excluded areas for this pawn.</AreaExclusion_TipClear>
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Area Exclusion</name>
+  <author>9ranr11d</author>
+  <packageId>9ranr11d.AreaExclusion</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>Shift+click an area in the Assign tab to mark it as an excluded area for that pawn. The pawn lives inside its allowed area but never works in the excluded areas, and avoids walking through them like any cell outside its allowed area. Several areas can be excluded at once. The area selector keeps the vanilla layout, with no extra columns or scrollbars.
+
+Shift+click "Unrestricted" to clear a pawn's excluded areas. Safe to remove: nothing is added to saves except a per-pawn list of excluded areas, which vanilla ignores.</description>
+</ModMetaData>
